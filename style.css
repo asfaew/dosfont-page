@@ -1,6 +1,6 @@
 @font-face { 
   font-family: DOS;
-  src: url('DOS.ttf'); 
+  src: url(https://raw.githubusercontent.com/asfaew/dosfont-page/refs/heads/main/DOS.ttf); 
 } 
 testing {
   font-family: DOS;
