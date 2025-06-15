@@ -1,0 +1,9 @@
+@font-face { 
+  font-family: DOS;
+  src: url('DOS.ttf'); 
+} 
+testing {
+  font-family: DOS;
+  font-size: 20px;
+  color: #000000;
+}
